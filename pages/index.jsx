@@ -1,6 +1,7 @@
 export default function Home({valor}) {
   return (
     <>
+    <h1> a cada 10 segundo sera atualizado o site estatico.</h1>
       <h1> valor: {valor}  </h1>
     </>
   )
